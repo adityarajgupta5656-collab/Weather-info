@@ -17,3 +17,5 @@ This application allows users to search  weather details of any city, including 
 
 # Working of the Project: 
 When the user enters a city name, the application fetches weather data from the API using JavaScript. The weather details such as temperature, humidity, wind speed, and weather condition are displayed on the screen instantly
+
+<img align="centre" width="500" height="400" alt="image" src="" />>
