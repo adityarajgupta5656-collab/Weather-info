@@ -20,3 +20,5 @@ When the user enters a city name, the application fetches weather data from the 
 
 # Output of this project
 <img align="Centre" width="500" height="400" alt="image" src="https://github.com/adityarajgupta5656-collab/Weather-info/blob/main/op%201.png" />
+
+<img align="left" width="500" height="400" alt="image" src="https://github.com/adityarajgupta5656-collab/Weather-info/blob/main/op%202.png" />
